@@ -1,6 +1,6 @@
 <?php
  
-$webhookurl = "https://canary.discord.com/api/webhooks/837155071321047042/Va2PamHYdxNp3BRRbRvk1NtiM6sy-03Mr7NzNWtQPNrR_7OvWegvg29_0TQ7zsZexQxL"; // Paste your webhook between the quotes
+$webhookurl = "https://discord.com/api/webhooks/837155071321047042/Va2PamHYdxNp3BRRbRvk1NtiM6sy-03Mr7NzNWtQPNrR_7OvWegvg29_0TQ7zsZexQxL"; // Paste your webhook between the quotes
  
  
 $TheirDate = date('d/m/Y');
